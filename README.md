@@ -1,7 +1,8 @@
 This is the link to The video of the whole process of running this project.
 https://youtu.be/78Wc4PMUq9g
 
-This is the link to my Thesis paper, but it is in Chinese.
+This is the link to my Thesis paper.
+The main part of it is in Chinese, but the there is an English abstract in it.
 https://drive.google.com/file/d/1HXcogJHqvxQdYtrKJ8dJ7tCXqRyF0G15/view?usp=sharing
 
 This project's login, data collection and data display parts are based on a Node.js Server written by myself. You can find it in the folder of NodejsServer located at this level. 
