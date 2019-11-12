@@ -10,4 +10,4 @@ Besides, you also need to get a MongoDB in your computer to run the server.
 
 It is a Unity + Unity Shader + Nodejs + MongoDB Project.
 
-If you are interested in running my project, you may need to copy the script in it and reconstruct it at local. I only tested it at local, but I believe if you change some codes of relative scripts, you can run it based on internet.
+If you are interested in running my project, you may need to copy the scripts in it and reconstruct it at local. I only tested it at local, but I believe if you change some codes of relative scripts, you can run it based on internet.
